@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.e9ab33fb.chunk.css",
-  "main.js": "/static/js/main.1d18f159.chunk.js",
-  "main.js.map": "/static/js/main.1d18f159.chunk.js.map",
-  "static/js/1.e3e49fd1.chunk.js": "/static/js/1.e3e49fd1.chunk.js",
-  "static/js/1.e3e49fd1.chunk.js.map": "/static/js/1.e3e49fd1.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/delete-svgrepo-com.svg": "/static/media/delete-svgrepo-com.9bb2c150.svg",
-  "static/media/delete-trash-remove-svgrepo-com.svg": "/static/media/delete-trash-remove-svgrepo-com.69337bee.svg",
-  "static/css/main.e9ab33fb.chunk.css.map": "/static/css/main.e9ab33fb.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.d27f2338bf91a121044680d364fbf38d.js": "/precache-manifest.d27f2338bf91a121044680d364fbf38d.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/cv-app/static/css/main.e9ab33fb.chunk.css",
+  "main.js": "/cv-app/static/js/main.1d18f159.chunk.js",
+  "main.js.map": "/cv-app/static/js/main.1d18f159.chunk.js.map",
+  "static/js/1.e3e49fd1.chunk.js": "/cv-app/static/js/1.e3e49fd1.chunk.js",
+  "static/js/1.e3e49fd1.chunk.js.map": "/cv-app/static/js/1.e3e49fd1.chunk.js.map",
+  "runtime~main.js": "/cv-app/static/js/runtime~main.5257d314.js",
+  "runtime~main.js.map": "/cv-app/static/js/runtime~main.5257d314.js.map",
+  "static/media/delete-svgrepo-com.svg": "/cv-app/static/media/delete-svgrepo-com.9bb2c150.svg",
+  "static/media/delete-trash-remove-svgrepo-com.svg": "/cv-app/static/media/delete-trash-remove-svgrepo-com.69337bee.svg",
+  "static/css/main.e9ab33fb.chunk.css.map": "/cv-app/static/css/main.e9ab33fb.chunk.css.map",
+  "index.html": "/cv-app/index.html",
+  "precache-manifest.59e80630c68629589b92cf4fb5278714.js": "/cv-app/precache-manifest.59e80630c68629589b92cf4fb5278714.js",
+  "service-worker.js": "/cv-app/service-worker.js"
 }

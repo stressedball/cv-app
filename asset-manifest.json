@@ -1,15 +1,15 @@
 {
-  "main.css": "/cv-app/static/css/main.e9ab33fb.chunk.css",
-  "main.js": "/cv-app/static/js/main.1d18f159.chunk.js",
-  "main.js.map": "/cv-app/static/js/main.1d18f159.chunk.js.map",
+  "main.css": "/cv-app/static/css/main.d05d6385.chunk.css",
+  "main.js": "/cv-app/static/js/main.8c8ce7cc.chunk.js",
+  "main.js.map": "/cv-app/static/js/main.8c8ce7cc.chunk.js.map",
   "static/js/1.e3e49fd1.chunk.js": "/cv-app/static/js/1.e3e49fd1.chunk.js",
   "static/js/1.e3e49fd1.chunk.js.map": "/cv-app/static/js/1.e3e49fd1.chunk.js.map",
   "runtime~main.js": "/cv-app/static/js/runtime~main.5257d314.js",
   "runtime~main.js.map": "/cv-app/static/js/runtime~main.5257d314.js.map",
   "static/media/delete-svgrepo-com.svg": "/cv-app/static/media/delete-svgrepo-com.9bb2c150.svg",
   "static/media/delete-trash-remove-svgrepo-com.svg": "/cv-app/static/media/delete-trash-remove-svgrepo-com.69337bee.svg",
-  "static/css/main.e9ab33fb.chunk.css.map": "/cv-app/static/css/main.e9ab33fb.chunk.css.map",
+  "static/css/main.d05d6385.chunk.css.map": "/cv-app/static/css/main.d05d6385.chunk.css.map",
   "index.html": "/cv-app/index.html",
-  "precache-manifest.59e80630c68629589b92cf4fb5278714.js": "/cv-app/precache-manifest.59e80630c68629589b92cf4fb5278714.js",
+  "precache-manifest.d65ff339fdfe81090fd21e4c819e532e.js": "/cv-app/precache-manifest.d65ff339fdfe81090fd21e4c819e532e.js",
   "service-worker.js": "/cv-app/service-worker.js"
 }
